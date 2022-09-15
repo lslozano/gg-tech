@@ -1,0 +1,8 @@
+.error-container {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+  padding-block-start: 50px;
+  color: black;
+  font-weight: 700;
+}
